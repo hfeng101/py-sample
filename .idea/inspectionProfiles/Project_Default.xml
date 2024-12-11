@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pipelines.samples.core.pipeline_parallelism.pipeline_parallelism_limits.kfp" />
+          <option value="pipelines.samples.core.dsl_static_type_checking.dsl_static_type_checking_test.kfp" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
